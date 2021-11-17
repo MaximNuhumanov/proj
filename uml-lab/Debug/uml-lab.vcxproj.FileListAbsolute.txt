@@ -1,0 +1,2 @@
+E:\uml_projects\uml-lab\Debug\uml-lab.exe
+E:\uml_projects\uml-lab\Debug\uml-lab.pdb

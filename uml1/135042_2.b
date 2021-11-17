@@ -1,1 +1,0 @@
-class array_IntData
